@@ -2,6 +2,6 @@
   "geminiLatestModel": "gemini-3.8-flash",
   "geminiModelFallback": "gemini-3.5-flash",
   "openrouterModel": "openai/o3",
-  "isacrive":true,
+  "isactive":true,
   "updatedAt": "2026-09-15"
 }
